@@ -1,0 +1,23 @@
+{
+    "versions": {
+        "0.0": {
+            "feature": [
+                "Windows"
+            ],
+            "development version": {
+                "beta": {
+                    "0.0.b.0": [
+                        "[Windows]"
+                    ]
+                }
+            }
+        }
+    },
+    "features": {
+        "future": {},
+        "present": {
+            "Windows": "0.0 -> now"
+        },
+        "past": {}
+    }
+}
