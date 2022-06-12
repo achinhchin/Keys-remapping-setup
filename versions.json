@@ -2,7 +2,12 @@
     "versions": {
         "0.0": {
             "feature": [
-                "Windows"
+                "Windows",
+                "macOS"
+            ],
+            "release": false,
+            "update": [
+                "init"
             ],
             "development version": {
                 "beta": {
