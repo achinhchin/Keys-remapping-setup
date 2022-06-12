@@ -7,7 +7,8 @@
             "development version": {
                 "beta": {
                     "0.0.b.0": [
-                        "[Windows]"
+                        "[Windows]",
+                        "[macOS]"
                     ]
                 }
             }
@@ -16,7 +17,8 @@
     "features": {
         "future": {},
         "present": {
-            "Windows": "0.0 -> now"
+            "Windows": "0.0 -> now",
+            "macOS": "0.0 -> now"
         },
         "past": {}
     }
