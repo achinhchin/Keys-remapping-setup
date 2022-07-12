@@ -17,6 +17,17 @@
                     ]
                 }
             }
+        },
+        "0.1": {
+            "feature": [
+                "Windows",
+                "macOS"
+            ],
+            "release": true,
+            "update": [
+                "change sharpkey in Windows"
+            ],
+            "development version": {}
         }
     },
     "features": {

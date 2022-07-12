@@ -41,6 +41,8 @@ This repository shows my key remapping setup to get more productivity.
 1. Download and install [Sharpkey](https://www.randyrants.com/sharpkeys394.msi).
 2. Set setting to this.
 ![](./readme-assets/Windows/sharpkey.png)
+3. Press "**Write to Registry**" button.
+4. Reboot your device.
 
 ### **2. PowerToys keyboard manager**
 1. Download and install [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD).
