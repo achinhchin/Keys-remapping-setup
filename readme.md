@@ -10,7 +10,7 @@ This repository shows my key remapping setup to get more productivity.
 
 ### **Contents**
 #### [My key remapping and usage](./readme.md#1-my-key-remapping-and-usage)
-1. [Keys reamapping](./readme.md#11-keys-remmapping)
+1. [Keys reamapping](./readme.md#11-keys-remapping)
 2. [Usage](./readme.md#12-usage)
 
 #### [Windows keys remapping setup](./readme.md#2-windows-keys-remapping-setup)
@@ -24,7 +24,7 @@ This repository shows my key remapping setup to get more productivity.
 ---
 
 ## **My key remapping and usage**
-### **1. Keys remmapping**
+### **1. Keys remapping**
 - Map **\<Caps Lock\>** to **\<Left Ctrl\>**
 - Map **\<Ctrl - h\>** to **\<Left\>**
 - Map **\<Ctrl - j\>** to **\<Down\>**
@@ -58,7 +58,7 @@ This repository shows my key remapping setup to get more productivity.
 2. Add *achinhchin-vim-key* complex modification to assets by type this command to your terminal.
 ```
 # Clone this repository
-git clone https://github.com/chinhchin/Keys-remapping-setup.git ~/Downloads/Keys-remmapping-setup/
+git clone https://github.com/chinhchin/Keys-remapping-setup.git ~/Downloads/Keys-remapping-setup/
 
 # Copy folder
 cp ~/Downloads/Keys-remapping-setup/achinhchin-vim-key.json ~/.config/karabiner/assets/complex_modifications/
