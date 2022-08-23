@@ -19,7 +19,7 @@ This repository shows my key remapping setup to get more productivity.
 
 #### [macOS keys remapping setup](./readme.md#macos-keys-remapping-setup)
 1. [Download and install Karabiner-Element](./readme.md#1-download-and-install-karabiner-elementshttpskarabiner-elementspqrsorg)
-2. [Conig Karabiner Element](./readme.md#2-config-karabiner-element)
+2. [Conig Karabiner-Element](./readme.md#2-config-karabiner-element)
 
 ---
 
@@ -52,7 +52,7 @@ This repository shows my key remapping setup to get more productivity.
 ## **macOS keys remapping setup**
 ### **1. Download and install [Karabiner-Elements](https://karabiner-elements.pqrs.org)**
 
-### **3. Config Karabiner-Element**
+### **2. Config Karabiner-Element**
 1. At "**Simple modifications**" pane, add items *caps_lock* -> *left_control* and *fn* -> *left_command*.
 ![Simple modification](./readme-assets/macOS/simple-modification.png)
 2. Add *achinhchin-vim-key* complex modification to assets by type this command to your terminal.
