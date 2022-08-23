@@ -58,7 +58,7 @@ This repository shows my key remapping setup to get more productivity.
 2. Add *achinhchin-vim-key* complex modification to assets by type this command to your terminal.
 ```
 # Clone this repository
-git clone https://github.com/chinhchin/Keys-remmapping-setup.git ~/Downloads/Keys-remmapping-setup/
+git clone https://github.com/chinhchin/Keys-remapping-setup.git ~/Downloads/Keys-remmapping-setup/
 
 # Copy folder
 cp ~/Downloads/Keys-remapping-setup/achinhchin-vim-key.json ~/.config/karabiner/assets/complex-modifications/
