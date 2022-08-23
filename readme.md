@@ -52,12 +52,16 @@ This repository shows my key remapping setup to get more productivity.
 ## **macOS keys remapping setup**
 ### **1. Download and install [Karabiner-Elements](https://karabiner-elements.pqrs.org)**
 
-### **2. Config Karabiner-Element**
-1. At "**Simple modifications**" pane, press "*Add item*" button, set "**From key**" to "*caps_lock*" and set "**To key**" to "*left_control*"
+### **3. Config Karabiner-Element**
+1. At "**Simple modifications**" pane, add items *caps_lock* -> *left_control* and *fn* -> *left_command*.
 ![Simple modification](./readme-assets/macOS/simple-modification.png)
-2. Add complex modification to assets by move "**complex_modifications**" folder to your "**~/Downloads**" directory and type this command to your terminal
+2. Add *achinhchin-vim-key* complex modification to assets by type this command to your terminal.
 ```
-cp ~/Downloads/complex_modifications/* ~/.config/karabiner/assets/complex_modification/
+# Clone this repository
+git clone https://github.com/chinhchin/Keys-remmapping-setup.git ~/Downloads/Keys-remmapping-setup/
+
+# Copy folder
+cp ~/Downloads/Keys-remapping-setup/achinhchin-vim-key.json ~/.config/karabiner/assets/complex-modifications/
 ```
-3. At "**Complex modifications**" pane, press "**Add rule**" button press "**Enable**" button at "*Left ctrl + hjkl to arrow keys Vim*" and "*change left_control+; to escape*".
-![Complex modification](./readme-assets/macOS/complex-modification.png)
+3. At "**Complex modifications**" pane, press "**Add rule**" button press "**Enable**" button at "*Left ctrl + hjkl; to arrow keys Vim*".
+[Complex modification](./readme-assets/macOS/complex-modification.png)

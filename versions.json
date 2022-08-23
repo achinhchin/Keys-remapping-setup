@@ -1,41 +1,61 @@
 {
-    "versions": {
-        "0.0": {
-            "feature": [
-                "Windows",
-                "macOS"
-            ],
-            "release": true,
-            "update": [
-                "init"
-            ],
-            "development version": {
-                "beta": {
-                    "0.0.b.0": [
-                        "[Windows]",
-                        "[macOS]"
-                    ]
-                }
-            }
-        },
-        "0.1": {
-            "feature": [
-                "Windows",
-                "macOS"
-            ],
-            "release": true,
-            "update": [
-                "change sharpkey in Windows"
-            ],
-            "development version": {}
+  "versions": {
+    "0.0": {
+      "features": [
+        "Windows",
+        "macOS"
+      ],
+      "release": true,
+      "update": [
+        "init"
+      ],
+      "development version": {
+        "beta": {
+          "0.0.b.0": [
+            "[Windows]",
+            "[macOS]"
+          ]
         }
+      }
     },
-    "features": {
-        "future": {},
-        "present": {
-            "Windows": "0.0 -> now",
-            "macOS": "0.0 -> now"
-        },
-        "past": {}
+    "0.1": {
+      "features": [
+        "Windows",
+        "macOS"
+      ],
+      "release": true,
+      "update": [
+        "change sharpkey in Windows"
+      ],
+      "development version": {}
+    },
+    "0.2": {
+      "features": [
+        "windows",
+        "macos"
+      ],
+      "release": true,
+      "update": [
+        "fix macos karabiner not show"
+      ]
+    },
+    "0.3": {
+      "features": [
+        "windows",
+        "macos"
+      ],
+      "release": false,
+      "update": [
+        "new version of karabiner"
+      ]
     }
+  },
+  "features": {
+    "future": {},
+    "present": {
+      "Windows": "0.0 -> now",
+      "macOS": "0.0 -> now"
+    },
+    "past": {}
+  }
 }
