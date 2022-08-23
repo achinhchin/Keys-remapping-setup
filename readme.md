@@ -61,7 +61,7 @@ This repository shows my key remapping setup to get more productivity.
 git clone https://github.com/chinhchin/Keys-remapping-setup.git ~/Downloads/Keys-remmapping-setup/
 
 # Copy folder
-cp ~/Downloads/Keys-remapping-setup/achinhchin-vim-key.json ~/.config/karabiner/assets/complex-modifications/
+cp ~/Downloads/Keys-remapping-setup/achinhchin-vim-key.json ~/.config/karabiner/assets/complex_modifications/
 ```
 3. At "**Complex modifications**" pane, press "**Add rule**" button press "**Enable**" button at "*Left ctrl + hjkl; to arrow keys Vim*".
 [Complex modification](./readme-assets/macOS/complex-modification.png)
