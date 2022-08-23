@@ -44,7 +44,7 @@
         "windows",
         "macos"
       ],
-      "release": false,
+      "release": true,
       "update": [
         "new version of karabiner"
       ]
